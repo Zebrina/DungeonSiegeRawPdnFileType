@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonSiegeRawPdnFileType", "DungeonSiegeRawPdnFileType\DungeonSiegeRawPdnFileType.csproj", "{9C7C79B1-553D-45B6-A81E-7169B0F8729A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonSiegeRawCmd", "DungeonSiegeRawCmd\DungeonSiegeRawCmd.csproj", "{00070E4B-EA11-4384-8F66-5423748B2DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7C79B1-553D-45B6-A81E-7169B0F8729A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7C79B1-553D-45B6-A81E-7169B0F8729A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7C79B1-553D-45B6-A81E-7169B0F8729A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7C79B1-553D-45B6-A81E-7169B0F8729A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00070E4B-EA11-4384-8F66-5423748B2DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00070E4B-EA11-4384-8F66-5423748B2DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00070E4B-EA11-4384-8F66-5423748B2DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00070E4B-EA11-4384-8F66-5423748B2DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F723EF36-CE54-4EDD-960C-FD1EDA032067}
+	EndGlobalSection
+EndGlobal
